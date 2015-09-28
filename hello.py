@@ -1,4 +1,4 @@
 __author__ = 'Student'
+from helper.py import greeting
 
-def greeting(msg):
-    print(msg)
+helper.greeting("hey what's up hello")
